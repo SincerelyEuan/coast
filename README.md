@@ -1,2 +1,2 @@
-# coast
+# Coast
 Coast Grill Rank Capes.
